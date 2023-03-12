@@ -13,7 +13,10 @@ template = env.get_template('index.html.j2')
 with (ROOT / 'data.json').open() as stream:
     subs: list = json.load(stream)
 subs.sort(key=lambda sub: sub['subscribers'], reverse=True)
-content = template.render(subs=subs)
+content = template.render(
+    subs=subs,
+    max_subscribers=subs[0]['subscribers'],
+)
 
 # write result
 output_path = (ROOT / 'public' / 'index.html')

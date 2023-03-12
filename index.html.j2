@@ -20,6 +20,24 @@
         border-radius: 10px;
         display: inline-block;
       }
+      .subscribers {
+        float: right;
+        display: inline-block;
+      }
+      .hbar {
+        height: 100%;
+        background-color: #2c3e50;
+        opacity: 20%;
+        position: absolute;
+        display: inline-block;
+        z-index: 50;
+        top: 0;
+        left: 0;
+      }
+      .overlay {
+        z-index: 100;
+        position: relative;
+      }
     </style>
   </head>
 
@@ -29,18 +47,23 @@
     </header>
     <div class="container-fluid bg-white py-3">
       <main class="container">
-        <ul class="list-group">
+        <ul>
           {% for sub in subs %}
             <li class="list-group-item">
-              {% if sub['icon'] %}
-                <img src="{{ sub['icon'] }}" class="icon"/>
-              {% else %}
-                <span class="icon"></span>
-              {% endif %}
-              <a href="https://reddit.com/r/{{ sub['name'] }}">
-                {{ sub['title'] }}
-              </a>
-              {{ sub['subscribers'] }}
+              <div class="hbar" style="width: calc(100%*{{sub['subscribers']}}/{{max_subscribers}})"></div>
+              <div class="overlay">
+                {% if sub['icon'] %}
+                  <img src="{{ sub['icon'] }}" class="icon"/>
+                {% else %}
+                  <span class="icon"></span>
+                {% endif %}
+                <a href="https://reddit.com/r/{{ sub['name'] }}">
+                  {{ sub['title'] }}
+                </a>
+                <span class="subscribers">
+                  {{ sub['subscribers'] }}
+                </span>
+              </div>
             </li>
           {% endfor %}
         </ul>
