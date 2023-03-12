@@ -21,6 +21,7 @@ julia
 kotlin
 latex
 lua
+markdown
 matlab
 nix
 ocaml
@@ -34,6 +35,6 @@ scala
 swift
 terraform
 typescript
-vuejs
 vlang
+vuejs
 zig

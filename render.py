@@ -1,4 +1,5 @@
 from __future__ import annotations
+from datetime import date
 
 import json
 from pathlib import Path
@@ -16,6 +17,7 @@ subs.sort(key=lambda sub: sub['subscribers'], reverse=True)
 content = template.render(
     subs=subs,
     max_subscribers=subs[0]['subscribers'],
+    today=date.today(),
 )
 
 # write result

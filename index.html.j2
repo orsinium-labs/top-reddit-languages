@@ -47,6 +47,10 @@
     </header>
     <div class="container-fluid bg-white py-3">
       <main class="container">
+        <p class="lead">
+          The list includes whatever GitHub considers a programming language
+          (including Dockerfile, CSS, HTML, and similar).
+        </p>
         <ul>
           {% for sub in subs %}
             <li class="list-group-item">
@@ -57,7 +61,7 @@
                 {% else %}
                   <span class="icon"></span>
                 {% endif %}
-                <a href="https://reddit.com/r/{{ sub['name'] }}">
+                <a href="https://reddit.com/r/{{ sub['name'] }}" target="_blank">
                   {{ sub['title'] }}
                 </a>
                 <span class="subscribers">
@@ -67,6 +71,12 @@
             </li>
           {% endfor %}
         </ul>
+        <p>
+          Updated on <b>{{ today }}</b>.
+          Source: <a href="https://github.com/orsinium-labs/top-reddit-languages">
+            github.com/orsinium-labs/top-reddit-languages
+          </a>
+        </p>
       </main>
     </div>
   </body>
