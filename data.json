@@ -1,0 +1,242 @@
+[
+  {
+    "name": "bash",
+    "subscribers": 58727,
+    "title": "#!/bin/bash",
+    "icon": "https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&v=enabled&s=9226b9c64fc6a5defafb7ee5428fd8fb9ca0a195"
+  },
+  {
+    "name": "c_programming",
+    "subscribers": 137087,
+    "title": "C",
+    "icon": ""
+  },
+  {
+    "name": "clojure",
+    "subscribers": 30777,
+    "title": "Clojure",
+    "icon": "https://styles.redditmedia.com/t5_2qkej/styles/communityIcon_vrvz3no0vgy31.png?width=256&v=enabled&s=249b98890927b6c8b32467cb218728e47d43870d"
+  },
+  {
+    "name": "cobol",
+    "subscribers": 3115,
+    "title": "Cobol Programming Language Articles",
+    "icon": ""
+  },
+  {
+    "name": "cpp",
+    "subscribers": 241224,
+    "title": "C++",
+    "icon": "https://styles.redditmedia.com/t5_2qi27/styles/communityIcon_c6mtvgj38ki31.jpg?width=256&v=enabled&s=11363188952eca89a4fcf7f52831f5aa74d018e0"
+  },
+  {
+    "name": "csharp",
+    "subscribers": 219845,
+    "title": "C#",
+    "icon": "https://styles.redditmedia.com/t5_2qhdf/styles/communityIcon_sk8k2hisvyv51.png?width=256&v=enabled&s=974e93a64f163b552dd1527982218c37bfd8caf9"
+  },
+  {
+    "name": "css",
+    "subscribers": 108926,
+    "title": "Cascading Style Sheets",
+    "icon": ""
+  },
+  {
+    "name": "dartlang",
+    "subscribers": 38133,
+    "title": "Dart Programming Language",
+    "icon": "https://styles.redditmedia.com/t5_2sut9/styles/communityIcon_f1uukpexwpj11.jpg?width=256&v=enabled&s=2272cd1675fa8f3b103ac78c9f901ecedf0d76a2"
+  },
+  {
+    "name": "docker",
+    "subscribers": 169351,
+    "title": "Docker: An open source project to pack, ship and run any application as a lightweight container",
+    "icon": ""
+  },
+  {
+    "name": "elixir",
+    "subscribers": 25081,
+    "title": "The Elixir Programming Language",
+    "icon": "https://styles.redditmedia.com/t5_2vhb3/styles/communityIcon_5ycr3zsnriea1.jpg?width=256&v=enabled&s=562553c149347983728f89c7671a0853d3f60cc0"
+  },
+  {
+    "name": "elm",
+    "subscribers": 10811,
+    "title": "The Elm Programming Language",
+    "icon": ""
+  },
+  {
+    "name": "erlang",
+    "subscribers": 9318,
+    "title": "erlang is a functional, concurrent, fault-tolerant programming language",
+    "icon": "https://styles.redditmedia.com/t5_2qh9n/styles/communityIcon_ncmdlqjqnun51.png?width=256&v=enabled&s=c93e8f96d3f09a43a5ddc6c3f0081dd5ef167faf"
+  },
+  {
+    "name": "fsharp",
+    "subscribers": 10461,
+    "title": "F# subreddit",
+    "icon": "https://styles.redditmedia.com/t5_2qkey/styles/communityIcon_94cy18m6ep551.png?width=256&v=enabled&s=eb33754c48e0d2ec750ec0c6b429a476bbd76b77"
+  },
+  {
+    "name": "golang",
+    "subscribers": 201554,
+    "title": "The Go Programming Language",
+    "icon": "https://styles.redditmedia.com/t5_2rc7j/styles/communityIcon_wy4riduoe9k11.png?width=256&v=enabled&s=82d82696d8e313e109a8cff379dcac28d42bde0d"
+  },
+  {
+    "name": "groovy",
+    "subscribers": 2986,
+    "title": "The Groovy programming language",
+    "icon": "https://styles.redditmedia.com/t5_2qhy2/styles/communityIcon_imz3ptpic8x31.png?width=256&v=enabled&s=9d47c12f29a980b2394b9a5cd711ddfce4abc113"
+  },
+  {
+    "name": "haskell",
+    "subscribers": 73938,
+    "title": "Haskell :: Reddit",
+    "icon": "https://styles.redditmedia.com/t5_2qh36/styles/communityIcon_b3usb2hbvbe11.png?width=256&v=enabled&s=bf845d90020dd68d39bff75d3ecf7d0f9e6d6150"
+  },
+  {
+    "name": "html",
+    "subscribers": 43176,
+    "title": "HyperText Markup Language",
+    "icon": ""
+  },
+  {
+    "name": "java",
+    "subscribers": 287842,
+    "title": "Java News/Tech/Discussion/etc. No programming help, no learning Java",
+    "icon": "https://styles.redditmedia.com/t5_2qhd7/styles/communityIcon_tzuj58g8ax451.png?width=256&v=enabled&s=21b3fab2a2c9d12e73363a2ece3e5c2fcb0269dc"
+  },
+  {
+    "name": "javascript",
+    "subscribers": 2323427,
+    "title": "\ud835\ude93\ud835\ude8a\ud835\ude9f\ud835\ude8a\ud835\ude9c\ud835\ude8c\ud835\ude9b\ud835\ude92\ud835\ude99\ud835\ude9d",
+    "icon": ""
+  },
+  {
+    "name": "julia",
+    "subscribers": 22392,
+    "title": "The Julia Language Subreddit",
+    "icon": "https://styles.redditmedia.com/t5_2qps0/styles/communityIcon_6zeuc9zgp4341.png?width=256&v=enabled&s=3bbed481662171f15ea1428a178fdf27edd91d4f"
+  },
+  {
+    "name": "kotlin",
+    "subscribers": 67554,
+    "title": "Kotlin",
+    "icon": "https://styles.redditmedia.com/t5_2so2r/styles/communityIcon_mh0wgxpwi9i91.jpg?width=256&v=enabled&s=10f1903d01f4284a24596d9aeab2314a3a3f7e21"
+  },
+  {
+    "name": "latex",
+    "subscribers": 43682,
+    "title": "LaTeX",
+    "icon": ""
+  },
+  {
+    "name": "lua",
+    "subscribers": 17382,
+    "title": "lua",
+    "icon": "https://styles.redditmedia.com/t5_2qjla/styles/communityIcon_t5nbdysekau91.png?width=256&v=enabled&s=41499a3c3765ac6abbe5df469f1349851b3cd1d9"
+  },
+  {
+    "name": "markdown",
+    "subscribers": 2998,
+    "title": "Markdown",
+    "icon": "https://styles.redditmedia.com/t5_2s0l3/styles/communityIcon_wwkcaxh9s5a61.png?width=256&v=enabled&s=6321abef3f2897fbc07f92bf4a8978f8878d4964"
+  },
+  {
+    "name": "matlab",
+    "subscribers": 49375,
+    "title": "MATLAB programming & numeric computing platform",
+    "icon": "https://styles.redditmedia.com/t5_2r4xn/styles/communityIcon_hazv1wbnhbc71.png?width=256&v=enabled&s=c3479c401164439efe354044584e4eaaf93e5276"
+  },
+  {
+    "name": "nix",
+    "subscribers": 1920,
+    "title": "/r/nix",
+    "icon": "https://styles.redditmedia.com/t5_2rge3/styles/communityIcon_r2iz77bho4651.png?width=256&v=enabled&s=409fe3b161bc289c85caa7a89a363ce2f51abacb"
+  },
+  {
+    "name": "ocaml",
+    "subscribers": 9911,
+    "title": "let reddit = OCaml;;",
+    "icon": ""
+  },
+  {
+    "name": "perl",
+    "subscribers": 15955,
+    "title": "Perl",
+    "icon": "https://styles.redditmedia.com/t5_2qh5e/styles/communityIcon_wucia5tn5ma41.png?width=256&v=enabled&s=a32da56f93d324bcfca9e416e37423f394b156a3"
+  },
+  {
+    "name": "php",
+    "subscribers": 156306,
+    "title": "PHP: The latest news in the PHP world",
+    "icon": "https://styles.redditmedia.com/t5_2qh38/styles/communityIcon_wyhpynob75c71.png?width=256&v=enabled&s=f5a5219f3332f1d62a2e750c3d2d3e360c5a8e6a"
+  },
+  {
+    "name": "python",
+    "subscribers": 1113330,
+    "title": "Python",
+    "icon": "https://styles.redditmedia.com/t5_2qh0y/styles/communityIcon_h9cdwd9m75a51.png?width=256&v=enabled&s=cefd3a42f994dcee5281520c6e4c2baabc4d9ae1"
+  },
+  {
+    "name": "rlanguage",
+    "subscribers": 33722,
+    "title": "R programming language",
+    "icon": ""
+  },
+  {
+    "name": "ruby",
+    "subscribers": 79071,
+    "title": "reddit for rubyists",
+    "icon": "https://styles.redditmedia.com/t5_2qh21/styles/communityIcon_j7mbcq6jkt691.png?width=256&v=enabled&s=6993b0f67911b690258ca63df269bef9d50a95cc"
+  },
+  {
+    "name": "rust",
+    "subscribers": 226003,
+    "title": "The Rust Programming Language",
+    "icon": "https://styles.redditmedia.com/t5_2s7lj/styles/communityIcon_pjg3ktzyju771.png?width=256&v=enabled&s=4bb4d83f03580b0ea59a93521f99409111eb0d13"
+  },
+  {
+    "name": "scala",
+    "subscribers": 49335,
+    "title": "Scala",
+    "icon": "https://styles.redditmedia.com/t5_2qh37/styles/communityIcon_kge80txqeqf11.png?width=256&v=enabled&s=bb12c2273e05ab7462ea561df9c84759a7874264"
+  },
+  {
+    "name": "swift",
+    "subscribers": 100420,
+    "title": "The Swift Programming Language",
+    "icon": "https://styles.redditmedia.com/t5_2z6zi/styles/communityIcon_cfjidmbwebq41.png?width=256&v=enabled&s=23da426e055112f5e2a7a5d5d37e96fec39ae14d"
+  },
+  {
+    "name": "terraform",
+    "subscribers": 33033,
+    "title": "Terraform",
+    "icon": "https://styles.redditmedia.com/t5_2u8e4/styles/communityIcon_6ctbbz76vzj51.png?width=256&v=enabled&s=d38840a582763c8eaf442181b2e005047a47c9d3"
+  },
+  {
+    "name": "typescript",
+    "subscribers": 102391,
+    "title": "TypeScript",
+    "icon": "https://styles.redditmedia.com/t5_2v6gg/styles/communityIcon_4w7vh6c21f871.png?width=256&v=enabled&s=a809a39638ebdb76f92b6c807fd8487243f4e470"
+  },
+  {
+    "name": "vlang",
+    "subscribers": 1914,
+    "title": "V Programming Language",
+    "icon": ""
+  },
+  {
+    "name": "vuejs",
+    "subscribers": 91917,
+    "title": "Vue.js - The progressive Javascript framework",
+    "icon": ""
+  },
+  {
+    "name": "zig",
+    "subscribers": 7345,
+    "title": "Ziglang",
+    "icon": "https://styles.redditmedia.com/t5_3cf47/styles/communityIcon_o5exg8qp2o941.png?width=256&v=enabled&s=5541950a55d2aec30d94cb013f51257d683ed637"
+  }
+]

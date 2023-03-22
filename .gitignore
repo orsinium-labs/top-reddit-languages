@@ -2,4 +2,4 @@ __pycache__/
 .*_cache/
 /public/
 /config.py
-/data.json
+
